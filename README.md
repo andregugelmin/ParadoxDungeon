@@ -1,2 +1,2 @@
 # ParadoxDungeon
- 3D game mande in Unity in a college project
+ 3D game made in Unity for a college project
